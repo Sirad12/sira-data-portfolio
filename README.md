@@ -1,4 +1,4 @@
-# Bonjour, moi c'est Ndeye Sira Dia 👋
+# Bonjour, moi c'est Ndeye Sira Dia 
 
 🎓 Étudiante en Licence Informatique option Big Data  
 📍 Dakar Institute of Technology — Dakar, Sénégal  
@@ -16,16 +16,19 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 ## 🚀 Mes projets
 
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
-| 🔐 [Détection d'intrusion en temps réel](#) | Surveillance réseau & alertes automatiques | Python, Streamlit |
-| ⚡ [Consommation électrique à Dakar](#) | Analyse de données de compteurs intelligents | R, RStudio |
-| 📊 [Performances académiques](#) | Régressions linéaires & analyse statistique | R |
-| 📈 [Visualisation de données](#) | Dashboards analytiques | Python, R, Tableau public, Dash |
-| 🌐 [Site vitrine restaurant](#) | Site web frontend | HTML, CSS |
+| 🔐 [Détection d'intrusion en temps réel](#) | Surveillance réseau en temps réel & alertes automatiques | Python, Streamlit, Docker, Kafka |
+| ⚡ [Consommation électrique à Dakar](#) | Analyse des facteurs influençant la surconsommation électrique | R, RStudio |
+| 📊 [Performances académiques](#) | Régressions linéaires simple & multiple, analyse statistique | R, RStudio |
+| 📈 [Visualisation de données](#) | Dashboards analytiques multi-outils | Python, R, Tableau Public, Dash |
+| 🌐 [Site vitrine restaurant](#) | Site web front-end & back-end de présentation | HTML, CSS |
+
 
 ## 📫 Me contacter
 
