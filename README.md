@@ -4,6 +4,8 @@
 📍 Dakar Institute of Technology — Dakar, Sénégal  
 🔍 Exploratrice de données | Passionnée par la Data & la visualisation  
 
+---
+
 ## 🛠️ Mes compétences
 **Langages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -19,10 +21,9 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
-
+---
 
 ## 🚀 Mes projets
-
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
 | 🔐 [Détection d'intrusion en temps réel](#) | Surveillance réseau en temps réel & alertes automatiques | Python, Streamlit, Docker, Kafka |
@@ -31,6 +32,7 @@
 | 📈 [Visualisation de données](#) | Dashboards analytiques multi-outils | Python, R, Tableau Public, Dash |
 | 🌐 [Site vitrine restaurant](#) | Site web front-end & back-end de présentation | HTML, CSS |
 
+--- 
 
 ## 📫 Me contacter
 
