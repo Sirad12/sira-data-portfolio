@@ -22,7 +22,7 @@
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 **Autres:**
-UX/UI Design
+UX/UI Design,
 Comptabilité (notions)
 
 ---
