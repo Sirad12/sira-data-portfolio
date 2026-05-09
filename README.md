@@ -21,6 +21,10 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
+**Autres:**
+UX/UI Design
+Comptabilité (notions)
+
 ---
 
 ## 🚀 Mes projets
