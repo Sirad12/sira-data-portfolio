@@ -43,12 +43,12 @@ J’aime transformer des données brutes en informations utiles grâce à l’an
 ---
 
 #  Ce qui m’intéresse
-- ⚙️ Ingénierie des données
-- 📥 Collection des données
-- 📊 Visualisation des données
-- 🏗️ Architecture Big Data
-- 📈 Analyse de données
-- 🔄 Streaming de données en temps réel
+-  Ingénierie des données
+-  Collection des données
+-  Visualisation des données
+-  Architecture Big Data
+-  Analyse de données
+-  Streaming de données en temps réel
 
 ---
 
@@ -58,7 +58,7 @@ J’aime transformer des données brutes en informations utiles grâce à l’an
 | 🔐 [Détection d'intrusion en temps réel](https://github.com/Sirad12/detection-intrusion-temps-reel) | Système de surveillance réseau capable de détecter des comportements suspects et générer des alertes en temps réel. | Python, Kafka, Docker, Streamlit |
 | ⚡ [Analyse de la consommation électrique à Dakar](https://github.com/Sirad12/analyse-consommation-electrique-dakar/tree/main) | Étude analytique des facteurs influençant la surconsommation électrique à Dakar à partir de données simulées. | R, RStudio |
 | 📊 [Analyse des performances académiques](https://github.com/Sirad12/analyse-performances-academiques) | Régressions linéaires simples et multiples appliquées à des données académiques. | R, Statistiques |
-| 📈 [Dashboards & Visualisation de données](#) | Création de dashboards interactifs et visualisations analytiques. | Python, Tableau |
+| 📈 [Dashboards & Visualisation de données](#) | Création de dashboards interactifs et visualisations analytiques. | Python, Tableau Public, Plotly Dash |
 | 🌐 [Site vitrine restaurant](#) | Développement d’un site web responsive de présentation. | HTML, CSS, JavaScript |
 
 ---
