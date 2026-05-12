@@ -30,7 +30,7 @@ Comptabilité (notions)
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
 | 🔐 [Détection d'intrusion en temps réel](https://github.com/Sirad12/detection-intrusion-temps-reel) | Surveillance réseau en temps réel & alertes automatiques | Python, Streamlit, Docker, Kafka |
-| ⚡ [Consommation électrique à Dakar](#) | Analyse des facteurs influençant la surconsommation électrique | R, RStudio |
+| ⚡ [Consommation électrique à Dakar](https://github.com/Sirad12/analyse-consommation-electrique-dakar/tree/main) | Analyse des facteurs influençant la surconsommation électrique | R, RStudio |
 | 📊 [Performances académiques](#) | Régressions linéaires simple & multiple, analyse statistique | R, RStudio |
 | 📈 [Visualisation de données](#) | Dashboards analytiques multi-outils | Python, R, Tableau Public, Dash |
 | 🌐 [Site vitrine restaurant](#) | Site web front-end & back-end de présentation | HTML, CSS |
