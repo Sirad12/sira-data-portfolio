@@ -26,6 +26,7 @@
 
 **Autres:**
 UX/UI Design,
+Cybersécurité (bases),
 Comptabilité (notions)
 
 ---
