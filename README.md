@@ -4,7 +4,7 @@
 📍 Dakar Institute of Technology | Dakar, Sénégal  
 
 💡 Passionnée par les données, les systèmes Big Data et la visualisation analytique.  
-J’aime transformer des données brutes en informations utiles grâce à l’analyse, aux dashboards interactifs et aux architectures de traitement de données.
+  J’aime transformer des données brutes en informations utiles grâce à l’analyse, aux dashboards interactifs et aux architectures de traitement de données.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=38BDF8&width=600&lines=Big+Data+Student;Data+Visualization+Enthusiast;Python+%7C+Kafka+%7C+R+%7C+SQL;Always+learning+new+technologies" />
 
