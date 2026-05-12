@@ -29,7 +29,7 @@ Comptabilité (notions)
 ## 🚀 Mes projets
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
-| 🔐 [Détection d'intrusion en temps réel](#) | Surveillance réseau en temps réel & alertes automatiques | Python, Streamlit, Docker, Kafka |
+| 🔐 [Détection d'intrusion en temps réel](https://github.com/Sirad12/detection-intrusion-temps-reel) | Surveillance réseau en temps réel & alertes automatiques | Python, Streamlit, Docker, Kafka |
 | ⚡ [Consommation électrique à Dakar](#) | Analyse des facteurs influençant la surconsommation électrique | R, RStudio |
 | 📊 [Performances académiques](#) | Régressions linéaires simple & multiple, analyse statistique | R, RStudio |
 | 📈 [Visualisation de données](#) | Dashboards analytiques multi-outils | Python, R, Tableau Public, Dash |
