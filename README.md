@@ -63,14 +63,6 @@ J’aime transformer des données brutes en informations utiles grâce à l’an
 
 ---
 
-# 📈 Statistiques GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sirad12&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirad12&layout=compact&theme=tokyonight)
-
----
-
-
 # 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sira-dia)
@@ -78,4 +70,4 @@ J’aime transformer des données brutes en informations utiles grâce à l’an
 
 ---
 
-⭐ *“Les données racontent une histoire — j’aime apprendre à la comprendre et à la visualiser.”*
+⭐ *“Les données racontent une histoire — mon rôle est de l'écouter.”*
