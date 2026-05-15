@@ -57,7 +57,7 @@
 # 🌟 Projets principaux
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 🌍 [Sénégal Weather Intelligence](https://github.com/Sirad12/senegal-weather-intelligence) | Pipeline Big Data temps réel : scraping météo → Kafka (3 brokers) → MinIO (Parquet) → Dashboard Streamlit. | Python, Kafka, MinIO, Docker, Streamlit, JupyterLab |
+| 🌍 [Sénégal Weather Intelligence](https://github.com/Sirad12/senegal-weather-intelligence) | Pipeline Big Data pour la surveillance en temps réel des données météorologiques du Sénégal · Cluster Kafka (3 brokers) · Stockage d'objets MinIO · Tableau de bord Streamlit · Entièrement conteneurisé avec Docker | Python, Kafka, MinIO, Docker, Streamlit, JupyterLab |
 | 🔐 [Détection d'intrusion en temps réel](https://github.com/Sirad12/detection-intrusion-temps-reel) | Système de surveillance réseau capable de détecter des comportements suspects et générer des alertes en temps réel. | Python, Kafka, Docker, Streamlit |
 | ⚡ [Analyse de la consommation électrique à Dakar](https://github.com/Sirad12/analyse-consommation-electrique-dakar/tree/main) | Étude analytique des facteurs influençant la surconsommation électrique à Dakar à partir de données simulées. | R, RStudio |
 | 📊 [Analyse des performances académiques](https://github.com/Sirad12/analyse-performances-academiques) | Régressions linéaires simples et multiples appliquées à des données académiques. | R, Statistiques |
