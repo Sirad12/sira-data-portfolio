@@ -153,12 +153,7 @@ Architecture microservices (Frontend React, API Livres/Utilisateurs/Emprunts, Po
 
 
 
-<!-- Ces deux images se génèrent automatiquement depuis ton activité réelle, rien à modifier — elles se mettent à jour toutes seules. -->
-
-<!--
-  Ces deux images se génèrent automatiquement depuis ton activité réelle,
-  rien à modifier — elles se mettent à jour toutes seules.
--->
+---
 
 
 
