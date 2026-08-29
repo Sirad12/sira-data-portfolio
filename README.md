@@ -45,7 +45,7 @@ Je conçois des systèmes qui transforment des données brutes — météo, traf
 
 **Data & Big Data**
 - Apache Kafka
-- MinIO (S3-compatible)
+- MinIO 
 - Parquet
 - Streamlit
 - JupyterLab
@@ -65,9 +65,8 @@ Je conçois des systèmes qui transforment des données brutes — météo, traf
 **Dév & Infra**
 - Docker / Docker Compose
 - Flask · FastAPI
-- React
 - PostgreSQL
-- Nginx · Jenkins
+- Jenkins
 
 </td>
 </tr>
@@ -100,7 +99,7 @@ Architecture choisie pour absorber un flux continu de données sans interruption
 
 <!-- Glisse ici une capture d'écran de ton dashboard Streamlit -->
 <!-- ![Dashboard](./assets/weather-dashboard.png) -->
-📸 *[capture d'écran du dashboard à ajouter]*
+📸 *[]*
 
 </td>
 </tr>
