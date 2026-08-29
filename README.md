@@ -1,89 +1,191 @@
-#  Bonjour, moi c’est Ndeye Sira Dia
 
-🎓 Étudiante en Licence Informatique — spécialisation Big Data  
-📍 Dakar Institute of Technology | Dakar, Sénégal  
 
-💡 Passionnée par les données, les systèmes Big Data et la visualisation analytique.  
-  J’aime transformer des données brutes en informations utiles grâce à l’analyse, aux dashboards interactifs et aux architectures de traitement de données.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=PINK&width=600&lines=Big+Data+Student;Data+Visualization+Enthusiast;Python+%7C+Kafka+%7C+R+%7C+SQL;Always+learning+new+technologies" />
 
----
 
-# 🚀 À propos de moi
 
--  Passionnée par l’analyse et la visualisation de données
--  Curieuse des systèmes de traitement de données en temps réel
--  J’aime créer des dashboards interactifs et des visualisations dynamiques
--  Intéressée par le monitoring et la détection d’anomalies
--  J’aime apprendre à travers des projets concrets
 
----
 
-# 🛠️ Technologies & Outils
 
-##  Langages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+
+
+
+<h1 align="center">Ndeye Sira Dia</h1>
+<p align="center"><i>Étudiante en Licence Informatique — Option Big Data · Dakar Institute of Technology</i></p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sira-dia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:siradia167@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Sirad12"><img src="https://img.shields.io/badge/Dakar,_Sénégal-📍-555555?style=flat" /></a>
+</p>
 
 ---
 
-##  Data & Big Data
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
-![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+### 👋 À propos
+
+Je conçois des systèmes qui transforment des données brutes — météo, trafic réseau, images — en informations exploitables : pipelines temps réel, dashboards interactifs, modèles de vision par ordinateur. Ce qui m'intéresse, c'est l'ensemble de la chaîne : de l'ingestion à la décision.
+
+- 🔭 En ce moment : je construis des pipelines Big Data temps réel (Kafka, MinIO, Streamlit)
+- 🌱 J'apprends actuellement : à approfondir la vision par ordinateur (YOLO) et les architectures orientées microservices
+- 💬 Je peux échanger sur : l'ingénierie de données, les dashboards analytiques, les architectures Kafka/Docker
+- 🎯 Je recherche : un stage en Data / Big Data
 
 ---
 
-#  Ce qui m’intéresse
--  Ingénierie des données
--  Collection des données
--  Visualisation des données
--  Architecture Big Data
--  Analyse de données
--  Streaming de données en temps réel
+### 🛠️ Stack technique
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,html,css,js,docker,git,vscode" />
+</p>
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Data & Big Data**
+- Apache Kafka
+- MinIO (S3-compatible)
+- Parquet
+- Streamlit
+- JupyterLab
+- Pandas
+
+</td>
+<td valign="top" width="33%">
+
+**IA / Machine Learning**
+- YOLO (vision par ordinateur)
+- Analyse statistique (R)
+- Scikit-learn *(en cours)*
+
+</td>
+<td valign="top" width="33%">
+
+**Dév & Infra**
+- Docker / Docker Compose
+- Flask · FastAPI
+- React
+- PostgreSQL
+- Nginx · Jenkins
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌟 Projets principaux
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| 🌍 [Sénégal Weather Intelligence](https://github.com/Sirad12/senegal-weather-intelligence) | Pipeline Big Data pour la surveillance en temps réel des données météorologiques du Sénégal · Cluster Kafka (3 brokers) · Stockage d'objets MinIO · Tableau de bord Streamlit · Entièrement conteneurisé avec Docker | Python, Kafka, MinIO, Docker, Streamlit, JupyterLab |
-| 🔐 [Détection d'intrusion en temps réel](https://github.com/Sirad12/detection-intrusion-temps-reel) | Système de surveillance réseau capable de détecter des comportements suspects et générer des alertes en temps réel. | Python, Kafka, Docker, Streamlit |
-| ⚡ [Analyse de la consommation électrique à Dakar](https://github.com/Sirad12/analyse-consommation-electrique-dakar/tree/main) | Étude analytique des facteurs influençant la surconsommation électrique à Dakar à partir de données simulées. | R, RStudio |
-| 📊 [Analyse des performances académiques](https://github.com/Sirad12/analyse-performances-academiques) | Régressions linéaires simples et multiples appliquées à des données académiques. | R, Statistiques |
-| 📈 [Dashboards & Visualisation de données](#) | Création de dashboards interactifs et visualisations analytiques. | Python, Tableau Public, Plotly Dash |
-| 🌐 [Site vitrine restaurant](#) | Développement d’un site web responsive de présentation. | HTML, CSS, JavaScript |
+### 🌟 Projet phare
+
+<table>
+<tr>
+<td width="60%">
+
+#### 🌍 [Sénégal Weather Intelligence](https://github.com/Sirad12/senegal-weather-intelligence)
+
+Pipeline Big Data temps réel de monitoring environnemental, conçu de bout en bout :
+
+```
+Open-Meteo API ─┐
+                 ├─► Kafka (3 brokers) ─► MinIO (Parquet) ─► Dashboard Streamlit
+OpenWeatherMap ─┘                                          └─► JupyterLab
+```
+
+Architecture choisie pour absorber un flux continu de données sans interruption, avec un stockage optimisé pour les requêtes analytiques. Entièrement conteneurisé avec Docker.
+
+`Python` `Kafka` `MinIO` `Docker` `Streamlit` `JupyterLab`
+
+</td>
+<td width="40%">
+
+<!-- Glisse ici une capture d'écran de ton dashboard Streamlit -->
+<!-- ![Dashboard](./assets/weather-dashboard.png) -->
+📸 *[capture d'écran du dashboard à ajouter]*
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📫 Me contacter
+### 📂 Tous les projets
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sira-dia)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:siradia167@gmail.com)
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**♻️ Détection de déchets par vision par ordinateur**
+Modèle de détection d'objets (YOLO) pour identifier et classer des déchets en vue d'un tri automatisé.
+*Projet de fin d'année*
+`Python` `YOLO`
+<!-- Ajoute le lien une fois le repo poussé -->
+
+</td>
+<td valign="top" width="50%">
+
+**🔐 [Détection d'intrusion en temps réel](https://github.com/Sirad12/detection-intrusion-temps-reel)**
+Surveillance réseau et détection de comportements suspects, avec génération d'alertes en temps réel.
+`Python` `Kafka` `Docker` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**🍽️ Wanu Ndar Ndar — Refonte site web**
+Refonte complète avec ajout de commande en ligne, livraison, précommande et réservation de table, ainsi qu'un chatbot d'assistance client.
+`Python` `HTML` `CSS` `JavaScript` `JSON`
+<!-- Ajoute le lien une fois le repo poussé -->
+
+</td>
+<td valign="top" width="50%">
+
+**⚡ [Analyse de la consommation électrique à Dakar](https://github.com/Sirad12/analyse-consommation-electrique-dakar)**
+Étude des facteurs influençant la surconsommation électrique, à partir de données terrain et simulées.
+`R` `RStudio` `Statistiques`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**🛒 [CoinAfrique Scraper](https://github.com/Sirad12/coinafrique)**
+Application Streamlit pour scraper et visualiser des données d'annonces en ligne.
+`Python` `Streamlit`
+
+</td>
+<td valign="top" width="50%">
+
+**🏗️ Plateforme de gestion de bibliothèque**
+Architecture microservices (Frontend React, API Livres/Utilisateurs/Emprunts, PostgreSQL), orchestrée via Docker Compose avec CI Jenkins.
+`Flask` `FastAPI` `React` `PostgreSQL` `Docker` `Jenkins`
+<!-- Ajoute le lien une fois le repo poussé -->
+
+</td>
+</tr>
+</table>
 
 ---
 
-⭐ *“Les données racontent une histoire — mon rôle est de l'écouter.”*
+### 📊 Activité GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sirad12&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirad12&layout=compact&hide_border=true" width="40%" />
+</p>
+
+<!--
+  Ces deux images se génèrent automatiquement depuis ton activité réelle,
+  rien à modifier — elles se mettent à jour toutes seules.
+-->
+
+---
+
+<p align="center">
+  <i>"Les données racontent une histoire — mon rôle est de l'écouter."</i>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sira-dia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:siradia167@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
