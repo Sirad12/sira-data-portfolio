@@ -24,8 +24,6 @@
 
 ### 👋 À propos
 
-Je conçois des systèmes qui transforment des données brutes — météo, trafic réseau, images — en informations exploitables : pipelines temps réel, dashboards interactifs, modèles de vision par ordinateur. Ce qui m'intéresse, c'est l'ensemble de la chaîne : de l'ingestion à la décision.
-
 - Passionnée par l'analyse et la visualisation de données
 - Curieuse des systèmes de traitement de données en temps réel
 - Intéressée par le monitoring, la détection d'anomalies et la vision par ordinateur
