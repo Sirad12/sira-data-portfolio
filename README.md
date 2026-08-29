@@ -149,8 +149,9 @@ Architecture microservices (Frontend React, API Livres/Utilisateurs/Emprunts, Po
 </tr>
 <tr> <td valign="top" width="50%">
 
-**📊 [Analyse des performances académiques]() 
-Régressions linéaires simples et multiples appliquées à des données académiques. R Statistiques
+**📊 [Analyse des performances académiques](https://github.com/Sirad12/analyse-performances-academiques)**
+Régressions linéaires simples et multiples appliquées à des données académiques. 
+`R` `Statistique`
 
 </td> <td valign="top" width="50%"> </td> </tr>
 </table>
