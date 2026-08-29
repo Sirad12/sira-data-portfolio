@@ -147,6 +147,12 @@ Architecture microservices (Frontend React, API Livres/Utilisateurs/Emprunts, Po
 
 </td>
 </tr>
+<tr> <td valign="top" width="50%">
+
+**📊 [Analyse des performances académiques]() 
+Régressions linéaires simples et multiples appliquées à des données académiques. R Statistiques
+
+</td> <td valign="top" width="50%"> </td> </tr>
 </table>
 
 
