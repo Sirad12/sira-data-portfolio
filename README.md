@@ -83,7 +83,8 @@ Architecture choisie pour absorber un flux continu de données sans interruption
 
 <!-- Glisse ici une capture d'écran de ton dashboard Streamlit -->
 <!-- ![Dashboard](./assets/weather-dashboard.png) -->
-📸 *[]*
+📸 *[<img width="959" height="413" alt="image" src="https://github.com/user-attachments/assets/8560be34-300a-4103-8a34-3125c167c650" />
+]*
 
 </td>
 </tr>
