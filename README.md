@@ -1,16 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">Ndeye Sira Dia</h1>
 <p align="center"><i>Étudiante en Licence Informatique — Option Big Data · Dakar Institute of Technology</i></p>
 
@@ -152,7 +139,7 @@ Application Streamlit pour scraper et visualiser des données d'annonces en lign
 </td>
 <td valign="top" width="50%">
 
-**🏗️ Plateforme de gestion de bibliothèque**
+**🏗️ [Plateforme de gestion de bibliothèque](https://github.com/Sirad12/Bibliotheque)**
 Architecture microservices (Frontend React, API Livres/Utilisateurs/Emprunts, PostgreSQL), orchestrée via Docker Compose avec CI Jenkins.
 `Flask` `FastAPI` `React` `PostgreSQL` `Docker` `Jenkins`
 <!-- Ajoute le lien une fois le repo poussé -->
