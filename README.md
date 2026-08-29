@@ -26,11 +26,10 @@
 
 Je conçois des systèmes qui transforment des données brutes — météo, trafic réseau, images — en informations exploitables : pipelines temps réel, dashboards interactifs, modèles de vision par ordinateur. Ce qui m'intéresse, c'est l'ensemble de la chaîne : de l'ingestion à la décision.
 
-- 🔭 En ce moment : je construis des pipelines Big Data temps réel (Kafka, MinIO, Streamlit)
-- 🌱 J'apprends actuellement : à approfondir la vision par ordinateur (YOLO) et les architectures orientées microservices
-- 💬 Je peux échanger sur : l'ingénierie de données, les dashboards analytiques, les architectures Kafka/Docker
-- 🎯 Je recherche : un stage en Data / Big Data
-
+- Passionnée par l'analyse et la visualisation de données
+- Curieuse des systèmes de traitement de données en temps réel
+- Intéressée par le monitoring, la détection d'anomalies et la vision par ordinateur
+- J'aime apprendre à travers des projets concrets, de la collecte à la restitution 
 ---
 
 ### 🛠️ Stack technique
