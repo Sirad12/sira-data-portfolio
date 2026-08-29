@@ -116,7 +116,7 @@ Surveillance réseau et détection de comportements suspects, avec génération 
 <tr>
 <td valign="top" width="50%">
 
-**🍽️ Wanu Ndar Ndar — Refonte site web**
+**🍽️ Wañu Ndar Ndar — Refonte site web**
 Refonte complète avec ajout de commande en ligne, livraison, précommande et réservation de table, ainsi qu'un chatbot d'assistance client.
 `Python` `HTML` `CSS` `JavaScript` `JSON`
 <!-- Ajoute le lien une fois le repo poussé -->
