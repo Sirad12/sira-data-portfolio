@@ -165,10 +165,7 @@ Architecture microservices (Frontend React, API Livres/Utilisateurs/Emprunts, Po
 
 ### 📊 Activité GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sirad12&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirad12&layout=compact&hide_border=true" width="40%" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sirad12&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirad12&layout=compact&hide_border=true" width="40%" /> </p> <!-- Ces deux images se génèrent automatiquement depuis ton activité réelle, rien à modifier — elles se mettent à jour toutes seules. -->
 
 <!--
   Ces deux images se génèrent automatiquement depuis ton activité réelle,
