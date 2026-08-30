@@ -60,7 +60,7 @@ J'aime apprendre en construisant des projets concrets, de la collecte des donné
 **Développement & DevOps**
 - Docker / Docker Compose
 - Flask · FastAPI
-- PostgreSQL
+- SQL · NoSQL
 - Jenkins
 
 </td>
