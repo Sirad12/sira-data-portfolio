@@ -1,11 +1,6 @@
-<h1 align="center">Ndeye Sira Dia</h1>
-<p align="center"><i>Étudiante en Licence Informatique — Option Big Data · Dakar Institute of Technology</i></p>
+<p align="center"> <strong>Étudiante en Licence Informatique — Spécialisation Big Data</strong><br> Dakar Institute of Technology · Dakar, Sénégal </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/sira-dia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:siradia167@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Sirad12"><img src="https://img.shields.io/badge/Dakar,_Sénégal-📍-555555?style=flat" /></a>
-</p>
+<p align="center"> <a href="https://linkedin.com/in/sira-dia"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="mailto:siradia167@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /> </a> </p>
 
 ---
 
