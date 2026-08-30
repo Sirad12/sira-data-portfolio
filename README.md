@@ -6,14 +6,25 @@
   <a href="mailto:siradia167@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Sirad12"><img src="https://img.shields.io/badge/Dakar,_Sénégal-📍-555555?style=flat" /></a>
 </p>
+
+
 ---
 
 ### 👋 À propos
 
-- Passionnée par l'analyse et la visualisation de données
-- Curieuse des systèmes de traitement de données en temps réel
-- Intéressée par le monitoring, la détection d'anomalies et la vision par ordinateur
-- J'aime apprendre à travers des projets concrets, de la collecte à la restitution 
+Je m'intéresse particulièrement à la manière dont les données peuvent être collectées, traitées, analysées et transformées en informations exploitables.
+
+À travers mes projets, j'explore notamment :
+
+- l'analyse et la visualisation de données ;
+- les pipelines de données en temps réel ;
+- le stockage et le traitement de données ;
+- le Machine Learning et la vision par ordinateur ;
+- le monitoring et la détection d'anomalies ;
+- la conteneurisation et les architectures distribuées.
+
+J'aime apprendre en construisant des projets concrets, de la collecte des données jusqu'à leur restitution.
+
 ---
 
 ### 🛠️ Stack technique
@@ -32,6 +43,7 @@
 - Parquet
 - Streamlit
 - JupyterLab
+- Tableau Public / Plotly Dash
 - Pandas
 
 </td>
@@ -40,12 +52,12 @@
 **IA / Machine Learning**
 - YOLO (vision par ordinateur)
 - Analyse statistique (R)
-- Scikit-learn *(en cours)*
+- Scikit-learn 
 
 </td>
 <td valign="top" width="33%">
 
-**Dév & Infra**
+**Développement & DevOps**
 - Docker / Docker Compose
 - Flask · FastAPI
 - PostgreSQL
@@ -98,8 +110,8 @@ Architecture choisie pour absorber un flux continu de données sans interruption
 <td valign="top" width="50%">
 
 **♻️ Détection de déchets par vision par ordinateur**
-Modèle de détection d'objets (YOLO) pour identifier et classer des déchets en vue d'un tri automatisé.
-*Projet de fin d'année*
+Modèle de détection d'objets basé sur YOLO pour identifier et classer différents types de déchets à partir d'images, dans le cadre d'une application de tri automatisé.
+*Projet de fin d'année L2*
 `Python` `YOLO`
 <!-- Ajoute le lien une fois le repo poussé -->
 
@@ -107,7 +119,7 @@ Modèle de détection d'objets (YOLO) pour identifier et classer des déchets en
 <td valign="top" width="50%">
 
 **🔐 [Détection d'intrusion en temps réel](https://github.com/Sirad12/detection-intrusion-temps-reel)**
-Surveillance réseau et détection de comportements suspects, avec génération d'alertes en temps réel.
+Système de surveillance réseau permettant de détecter des activités suspectes et de générer des alertes en temps réel.
 `Python` `Kafka` `Docker` `Streamlit`
 
 </td>
@@ -124,7 +136,7 @@ Refonte complète avec ajout de commande en ligne, livraison, précommande et r�
 <td valign="top" width="50%">
 
 **⚡ [Analyse de la consommation électrique à Dakar](https://github.com/Sirad12/analyse-consommation-electrique-dakar)**
-Étude des facteurs influençant la surconsommation électrique, à partir de données terrain et simulées.
+Étude statistique visant à identifier les principaux facteurs influençant la surconsommation électrique des ménages à Dakar. Les données ont été collectées sur le terrain puis complétées par des jeux de données simulés.
 `R` `RStudio` `Statistiques`
 
 </td>
