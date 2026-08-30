@@ -92,7 +92,7 @@ Architecture choisie pour absorber un flux continu de données sans interruption
 </td>
 <td width="40%">
 
-<!-- Glisse ici une capture d'écran de ton dashboard Streamlit -->
+
 <!-- ![Dashboard](./assets/weather-dashboard.png) -->
 <img width="959" height="413" alt="image" src="https://github.com/user-attachments/assets/8560be34-300a-4103-8a34-3125c167c650" />
 
@@ -113,7 +113,7 @@ Architecture choisie pour absorber un flux continu de données sans interruption
 Modèle de détection d'objets basé sur YOLO pour identifier et classer différents types de déchets à partir d'images, dans le cadre d'une application de tri automatisé.
 *Projet de fin d'année L2*
 `Python` `YOLO`
-<!-- Ajoute le lien une fois le repo poussé -->
+
 
 </td>
 <td valign="top" width="50%">
@@ -130,7 +130,7 @@ Système de surveillance réseau permettant de détecter des activités suspecte
 **🍽️ [Wañu Ndar Ndar — Refonte site web](https://github.com/Sirad12/Wanu_Ndar_Ndar)**
 Refonte complète avec ajout de commande en ligne, livraison, précommande et réservation de table, ainsi qu'un chatbot d'assistance client.
 `Python` `HTML` `CSS` `JavaScript` `JSON`
-<!-- Ajoute le lien une fois le repo poussé -->
+
 
 </td>
 <td valign="top" width="50%">
@@ -154,7 +154,7 @@ Application Streamlit pour scraper et visualiser des données d'annonces en lign
 **🏗️ [Plateforme de gestion de bibliothèque](https://github.com/Sirad12/Bibliotheque)**
 Architecture microservices (Frontend React, API Livres/Utilisateurs/Emprunts, PostgreSQL), orchestrée via Docker Compose avec CI Jenkins.
 `Flask` `FastAPI` `React` `PostgreSQL` `Docker` `Jenkins`
-<!-- Ajoute le lien une fois le repo poussé -->
+
 
 </td>
 </tr>
@@ -164,7 +164,7 @@ Architecture microservices (Frontend React, API Livres/Utilisateurs/Emprunts, Po
 Régressions linéaires simples et multiples appliquées à des données académiques. 
 `R` `Statistique`
 
-</td> <td valign="top" width="50%"> </td> </tr>
+</td> </tr>
 </table>
 
 
