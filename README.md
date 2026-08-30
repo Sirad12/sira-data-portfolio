@@ -39,11 +39,11 @@ J'aime apprendre en construisant des projets concrets, de la collecte des donné
 
 **Data & Big Data**
 - Apache Kafka
-- MinIO 
+- Apache Airflow
+- MinIO
 - Parquet
 - Streamlit
 - JupyterLab
-- Tableau Public / Plotly Dash
 - Pandas
 
 </td>
@@ -51,8 +51,27 @@ J'aime apprendre en construisant des projets concrets, de la collecte des donné
 
 **IA / Machine Learning**
 - YOLO (vision par ordinateur)
+- Scikit-learn
 - Analyse statistique (R)
-- Scikit-learn 
+
+</td>
+<td valign="top" width="33%">
+
+**Visualisation & BI**
+- Tableau Desktop / Public
+- Plotly Dash
+- Matplotlib
+- Seaborn
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+**Bases de données**
+- PostgreSQL
+- MySQL
+- MongoDB
 
 </td>
 <td valign="top" width="33%">
@@ -60,8 +79,11 @@ J'aime apprendre en construisant des projets concrets, de la collecte des donné
 **Développement & DevOps**
 - Docker / Docker Compose
 - Flask · FastAPI
-- SQL · NoSQL
+- BeautifulSoup (Web Scraping)
 - Jenkins
+
+</td>
+<td valign="top" width="33%">
 
 </td>
 </tr>
