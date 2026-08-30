@@ -65,7 +65,9 @@ J'aime apprendre en construisant des projets concrets, de la collecte des donné
 
 </td>
 </tr>
-<tr>
+
+
+
 <td valign="top" width="33%">
 
 **Bases de données**
@@ -86,7 +88,8 @@ J'aime apprendre en construisant des projets concrets, de la collecte des donné
 <td valign="top" width="33%">
 
 </td>
-</tr>
+
+ 
 </table>
 
 ---
