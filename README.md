@@ -194,6 +194,19 @@ Nettoyage complet d'un dataset retail volontairement "sale" : déduction logique
 `Python` `Pandas` `Seaborn` `Jupyter`
 </td>
 </tr>
+<tr>
+<td valign="top" width="50%">
+
+**🛂 [Chatbot RAG — Bureau des Passeports du Sénégal](https://github.com/Sirad12/chatbot-bdpp)**
+Assistant conversationnel basé sur une architecture RAG (Retrieval-Augmented Generation) répondant aux questions administratives sur les démarches de passeport : embeddings et génération via l'API Gemini, retrieval vectoriel avec ChromaDB, API FastAPI conteneurisée avec Docker.
+*Projet académique — module Chatbot & NLP*
+`Python` `FastAPI` `ChromaDB` `Gemini API` `Docker`
+
+</td>
+<td valign="top" width="50%">
+
+</td>
+</tr>
 </table>
 
 
