@@ -186,7 +186,14 @@ Architecture microservices (Frontend React, API Livres/Utilisateurs/Emprunts, Po
 Régressions linéaires simples et multiples appliquées à des données académiques. 
 `R` `Statistique`
 
-</td> </tr>
+</td> 
+<td valign="top" width="50%">
+
+**🧹 [Nettoyage et analyse de données retail (Data Cleaning & EDA)](https://github.com/Sirad12/retail-sales-data-cleaning)**
+Nettoyage complet d'un dataset retail volontairement "sale" : déduction logique des valeurs manquantes par mapping et relations métier plutôt qu'imputation systématique, puis analyse exploratoire pour en extraire des insights business (revenus par catégorie, canaux de vente, comportement client).
+`Python` `Pandas` `Seaborn` `Jupyter`
+</td>
+</tr>
 </table>
 
 
