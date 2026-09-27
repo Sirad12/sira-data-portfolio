@@ -133,7 +133,7 @@ Architecture choisie pour absorber un flux continu de données sans interruption
 <tr>
 <td valign="top" width="50%">
 
-**💰 [Mobile Money Data Pipeline](https://github.com/Sirad12/mobile-money-pipeline)**
+**💰 [Mobile Money Data Pipeline](https://github.com/Sirad12/mobile_money_pipeline)**
 Pipeline ELT batch sur des transactions mobile money simulées (Orange Money, Wave) au Sénégal : génération de données réalistes, orchestration Airflow, transformations et tests de qualité dbt, entrepôt PostgreSQL, dashboard Metabase.
 `Python` `Airflow` `dbt` `PostgreSQL` `Metabase` `Docker`
 
