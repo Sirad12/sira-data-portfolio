@@ -17,7 +17,7 @@ Je m'intéresse particulièrement à la manière dont les données peuvent être
 À travers mes projets, j'explore notamment :
 
 - l'analyse et la visualisation de données ;
-- les pipelines de données en temps réel ;
+- les pipelines de données en temps réel et batch ;
 - le stockage et le traitement de données ;
 - le Machine Learning et la vision par ordinateur ;
 - le monitoring et la détection d'anomalies ;
@@ -40,6 +40,7 @@ J'aime apprendre en construisant des projets concrets, de la collecte des donné
 **Data & Big Data**
 - Apache Kafka
 - Apache Airflow
+- dbt
 - MinIO
 - Parquet
 - Streamlit
@@ -59,6 +60,7 @@ J'aime apprendre en construisant des projets concrets, de la collecte des donné
 
 **Visualisation & BI**
 - Tableau Desktop / Public
+- Metabase
 - Plotly Dash
 - Matplotlib
 - Seaborn
@@ -131,18 +133,50 @@ Architecture choisie pour absorber un flux continu de données sans interruption
 <tr>
 <td valign="top" width="50%">
 
-**♻️ Détection de déchets par vision par ordinateur**
-Modèle de détection d'objets basé sur YOLO pour identifier et classer différents types de déchets à partir d'images, dans le cadre d'une application de tri automatisé.
-*Projet de fin d'année L2*
-`Python` `YOLO`
-
+**💰 [Mobile Money Data Pipeline](https://github.com/Sirad12/mobile-money-pipeline)**
+Pipeline ELT batch sur des transactions mobile money simulées (Orange Money, Wave) au Sénégal : génération de données réalistes, orchestration Airflow, transformations et tests de qualité dbt, entrepôt PostgreSQL, dashboard Metabase.
+`Python` `Airflow` `dbt` `PostgreSQL` `Metabase` `Docker`
 
 </td>
+<td valign="top" width="50%">
+
+**🏗️ [Plateforme de gestion de bibliothèque](https://github.com/Sirad12/Bibliotheque)**
+Architecture microservices (Frontend React, API Livres/Utilisateurs/Emprunts, PostgreSQL), orchestrée via Docker Compose avec CI Jenkins.
+`Flask` `FastAPI` `React` `PostgreSQL` `Docker` `Jenkins`
+
+</td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **🔐 [Détection d'intrusion en temps réel](https://github.com/Sirad12/detection-intrusion-temps-reel)**
 Système de surveillance réseau permettant de détecter des activités suspectes et de générer des alertes en temps réel.
 `Python` `Kafka` `Docker` `Streamlit`
+
+</td>
+<td valign="top" width="50%">
+
+**🛂 [Chatbot RAG — Bureau des Passeports du Sénégal](https://github.com/Sirad12/chatbot-bdpp)**
+Assistant conversationnel basé sur une architecture RAG (Retrieval-Augmented Generation) répondant aux questions administratives sur les démarches de passeport : embeddings et génération via l'API Gemini, retrieval vectoriel avec ChromaDB, API FastAPI conteneurisée avec Docker.
+*Projet académique — module Chatbot & NLP*
+`Python` `FastAPI` `ChromaDB` `Gemini API` `Docker`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**🧹 [Nettoyage et analyse de données retail (Data Cleaning & EDA)](https://github.com/Sirad12/retail-sales-data-cleaning)**
+Nettoyage complet d'un dataset retail volontairement "sale" : déduction logique des valeurs manquantes par mapping et relations métier plutôt qu'imputation systématique, puis analyse exploratoire pour en extraire des insights business.
+`Python` `Pandas` `Seaborn` `Jupyter`
+
+</td>
+<td valign="top" width="50%">
+
+**♻️ Détection de déchets par vision par ordinateur**
+Modèle de détection d'objets basé sur YOLO pour identifier et classer différents types de déchets à partir d'images, dans le cadre d'une application de tri automatisé.
+*Projet de fin d'année L2*
+`Python` `YOLO`
 
 </td>
 </tr>
@@ -153,17 +187,7 @@ Système de surveillance réseau permettant de détecter des activités suspecte
 Refonte complète avec ajout de commande en ligne, livraison, précommande et réservation de table, ainsi qu'un chatbot d'assistance client.
 `Python` `HTML` `CSS` `JavaScript` `JSON`
 
-
 </td>
-<td valign="top" width="50%">
-
-**⚡ [Analyse de la consommation électrique à Dakar](https://github.com/Sirad12/analyse-consommation-electrique-dakar)**
-Étude statistique visant à identifier les principaux facteurs influençant la surconsommation électrique des ménages à Dakar. Les données ont été collectées sur le terrain puis complétées par des jeux de données simulés.
-`R` `RStudio` `Statistiques`
-
-</td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **🛒 [CoinAfrique Scraper](https://github.com/Sirad12/coinafrique)**
@@ -171,39 +195,20 @@ Application Streamlit pour scraper et visualiser des données d'annonces en lign
 `Python` `Streamlit`
 
 </td>
-<td valign="top" width="50%">
-
-**🏗️ [Plateforme de gestion de bibliothèque](https://github.com/Sirad12/Bibliotheque)**
-Architecture microservices (Frontend React, API Livres/Utilisateurs/Emprunts, PostgreSQL), orchestrée via Docker Compose avec CI Jenkins.
-`Flask` `FastAPI` `React` `PostgreSQL` `Docker` `Jenkins`
-
-
-</td>
-</tr>
-<tr> <td valign="top" width="50%">
-
-**📊 [Analyse des performances académiques](https://github.com/Sirad12/analyse-performances-academiques)**
-Régressions linéaires simples et multiples appliquées à des données académiques. 
-`R` `Statistique`
-
-</td> 
-<td valign="top" width="50%">
-
-**🧹 [Nettoyage et analyse de données retail (Data Cleaning & EDA)](https://github.com/Sirad12/retail-sales-data-cleaning)**
-Nettoyage complet d'un dataset retail volontairement "sale" : déduction logique des valeurs manquantes par mapping et relations métier plutôt qu'imputation systématique, puis analyse exploratoire pour en extraire des insights business.
-`Python` `Pandas` `Seaborn` `Jupyter`
-</td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-**🛂 [Chatbot RAG — Bureau des Passeports du Sénégal](https://github.com/Sirad12/chatbot-bdpp)**
-Assistant conversationnel basé sur une architecture RAG (Retrieval-Augmented Generation) répondant aux questions administratives sur les démarches de passeport : embeddings et génération via l'API Gemini, retrieval vectoriel avec ChromaDB, API FastAPI conteneurisée avec Docker.
-*Projet académique — module Chatbot & NLP*
-`Python` `FastAPI` `ChromaDB` `Gemini API` `Docker`
+**⚡ [Analyse de la consommation électrique à Dakar](https://github.com/Sirad12/analyse-consommation-electrique-dakar)**
+Étude statistique visant à identifier les principaux facteurs influençant la surconsommation électrique des ménages à Dakar. Les données ont été collectées sur le terrain puis complétées par des jeux de données simulés.
+`R` `RStudio` `Statistiques`
 
 </td>
 <td valign="top" width="50%">
+
+**📊 [Analyse des performances académiques](https://github.com/Sirad12/analyse-performances-academiques)**
+Régressions linéaires simples et multiples appliquées à des données académiques.
+`R` `Statistique`
 
 </td>
 </tr>
