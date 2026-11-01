@@ -51,7 +51,6 @@ J'aime apprendre en construisant des projets concrets, de la collecte des donné
 <td valign="top" width="33%">
 
 **IA / Machine Learning**
-- YOLO (vision par ordinateur)
 - Scikit-learn
 - Analyse statistique (R)
 
