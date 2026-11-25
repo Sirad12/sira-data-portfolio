@@ -40,7 +40,6 @@ J'aime apprendre en construisant des projets concrets, de la collecte des donné
 **Data & Big Data**
 - Apache Kafka
 - Apache Airflow
-- dbt
 - MinIO
 - Parquet
 - Streamlit
